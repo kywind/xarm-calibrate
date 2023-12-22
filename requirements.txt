@@ -1,0 +1,10 @@
+numpy
+opencv-contrib-python
+matplotlib
+open3d
+atomics
+av
+pdbpp
+multiprocess
+pyrealsense2
+xarm-python-sdk
